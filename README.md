@@ -1,5 +1,5 @@
-# data-kb
-tutoring materials
+# primes
+investigating the series of prime numbers using quadratic programming
 
 ## environment
 * conda list --export > package-list.txt
